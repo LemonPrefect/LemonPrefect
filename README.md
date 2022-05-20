@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LemonPrefect](https://github-readme-stats.vercel.app/api?username=LemonPrefect&show_icons=true)
+
 <!--
 **LemonPrefect/LemonPrefect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
